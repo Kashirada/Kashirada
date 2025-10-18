@@ -1,5 +1,5 @@
 <!-- Top Line -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=006AFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFFFFF"/>
 <br>
 <!-- Title Blocks -->
 <div align="center">
