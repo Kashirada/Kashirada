@@ -80,5 +80,5 @@ MIT © Kashirada — Feel free to get inspired!
   <em>Let's build something awesome together!</em>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=120&section=footer"/>
 
