@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1C1C1C"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=363636"/>
 </p>
 
 # Hello! I'm Kashirada.
@@ -76,5 +76,5 @@ MIT © Kashirada — Feel free to get inspired!
   
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363636&height=120&section=footer"/>
 
