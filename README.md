@@ -1,78 +1,84 @@
-<!-- Top Line -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFFFFF"/>
-<br>
-<!-- Title Blocks -->
-<div align="center">
-  
-  <b> `プログラマー`</b> <b> `デザイナー` </b>  <b>`マルチリンガル`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Kashirada</b>
-  </samp>
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1C1C1C"/>
+</p>
 
-<!-- animated text line -->
+# Hello! I'm Kashirada.
 
-<div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Karla&color=006AFF&width=500&size=30&center=true&lines=I+am+from+Brazil;I'm+a+Programmer;I'm+a+Designer;I'm+a+Polyglot;Be+welcome!" alt="Typing SVG"/>
-</div>
+ **プログラマー · デザイナー · マルチリンガル**   
+*Programmer · Designer · Multilingual*
 
-<!-- First line icons -->
-<div align="center" style="display": inline_block">
-<samp>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-   <br> <b>Linux User</b> </samp>
-<div align="center" style="display": inline_block">
-<img  alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
-  <br> <b>"I Use Arch btw."</b> </samp>
-<samp> 
-  <br><br>
-  <br> <b> Back End </b>
-</br>
-<!-- programming languages. -->
-  <div align="center" style="display: inline_block">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <br> <b> Front End </b>
-</br>
-  <div align="center" style="display: inline_block">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <br> <b> Design </b>
-</br>
-  <div align="center" style="display: inline_block">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-<br> <b> Organization. </b>
-</br>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
-<br> <b> code </b>
-</br>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-          
+---
 
+## 🧑🏼‍💻 Me
 
+I'm a full-stack developer with a passion for clean code, creative design, and continuous learning.  
+My main weapons are **Java**, **Python**, and **CSS**, but I love exploring new stacks and tools that push my limits.  
 
-<br>
+Outside of tech, I train in **Boxing** and **Brazilian Jiu-Jitsu** — disciplines that taught me focus, resilience, and precision, qualities I bring into every line of code.  
 
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
+As a **multilingual developer**, I believe communication is as powerful as code itself.  
+Always learning. Always building. Always evolving.
 
+Oh, and yes... **I use Arch btw.** <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"> 
+----
 
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-006AFF?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/Eduwndl/?next=%2F)
-  
+## 🛠️ My Toolbox
 
-  
+**When I'm coding:**
+- ☕ Java — for when things need to be robust
+- 🐍 Python — my go-to for quick scripts and automation
+- ⚡ JavaScript — making the web come alive
+- 🌐 HTML5 & 🎨 CSS3 — the classics never go out of style
 
-<br>
+**When I'm designing:**
+- 🖌️ Photoshop — for those pixel-perfect moments
+- 🎨 Figma — collaborative design magic
+- 🪄 Canva — quick graphics when I need 'em
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006AFF&height=100&section=footer"/>
+**My daily drivers:**
+- 🗂️ Notion — my second brain
+- 🧑‍💻 VS Code — where the magic happens
+- 🐧 Arch Linux — because I like my OS like I like my coffee: minimal and customizable
+
+---
+
+## 🌍 Languages I Speak
+
+Language is just another form of architecture — and I love building bridges between them.  
+I'm a **native Portuguese speaker** and **fluent in English**, currently studying **Japanese**, **Russian**, **German**, **Italian**, and **French**.
+
+---
+
+## 📸 Let's Connect!
+
+I love meeting new people and sharing ideas!
+
+- **Instagram:** [@kashir.ada](https://instagram.com/kashir.ada) — where I post my creative stuff
+- **LinkedIn:** [/in/kashirada](https://www.linkedin.com/in/kashirada/) — let's network professionally
+- **Email:** [kashiraada@gmail.com](mailto:kashiraada@gmail.com) — drop me a line!
+
+---
+
+## 💭 Random Facts About Me
+```
+- 🐧 Proud Linux user (Arch, specifically)
+- 🌏 Multilingual — always learning new languages
+- ☕ Coffee enthusiast (probably too much)
+- 📚 Notion power user
+- 🎮 When I'm not coding, I'm probably gaming or designing
+```
+---
+
+## ⚖️ License
+
+MIT © Kashirada — Feel free to get inspired!
+
+---
+
+<p align="center">
+  <em>Thanks for stopping by! 🌟</em><br/>
+  <em>Let's build something awesome together!</em>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=100&section=footer"/>
+
