@@ -20,25 +20,28 @@ As a **multilingual developer**, I believe communication is as powerful as code 
 Always learning. Always building. Always evolving.
 
 Oh, and yes... **I use Arch btw.** <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"> 
+
 ----
 
 ## 🛠️ My Toolbox
 
 **When I'm coding:**
-- ☕ Java — for when things need to be robust
-- 🐍 Python — my go-to for quick scripts and automation
-- ⚡ JavaScript — making the web come alive
-- 🌐 HTML5 & 🎨 CSS3 — the classics never go out of style
+
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+
+
 
 **When I'm designing:**
-- 🖌️ Photoshop — for those pixel-perfect moments
-- 🎨 Figma — collaborative design magic
-- 🪄 Canva — quick graphics when I need 'em
+
+ <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+
 
 **My daily drivers:**
-- 🗂️ Notion — my second brain
-- 🧑‍💻 VS Code — where the magic happens
-- 🐧 Arch Linux — because I like my OS like I like my coffee: minimal and customizable
+
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
 
 ---
 
@@ -59,15 +62,6 @@ I love meeting new people and sharing ideas!
 
 ---
 
-## 💭 Random Facts About Me
-```
-- 🐧 Proud Linux user (Arch, specifically)
-- 🌏 Multilingual — always learning new languages
-- ☕ Coffee enthusiast (probably too much)
-- 📚 Notion power user
-- 🎮 When I'm not coding, I'm probably gaming or designing
-```
----
 
 ## ⚖️ License
 
@@ -76,8 +70,10 @@ MIT © Kashirada — Feel free to get inspired!
 ---
 
 <p align="center">
-  <em>Thanks for stopping by! 🌟</em><br/>
-  <em>Let's build something awesome together!</em>
+  <em><img align="center" alt="Rafa-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
+
+</em><br/>
+  
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=120&section=footer"/>
